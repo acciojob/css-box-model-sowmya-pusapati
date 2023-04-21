@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.para{
+	width:300px;
+	background-color:lightblue;
+	border:15px solid blue;
+	padding:50px; 
+	color:black;
+	margin:20px;
+}
